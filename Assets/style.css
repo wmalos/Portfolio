@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(121, 154, 245, 0.671);
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    color: white;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+nav {
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: cadetblue;
+}
+
+nav a {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
