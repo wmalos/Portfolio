@@ -21,17 +21,17 @@ body {
 }
 
 nav {
-    padding: 10px;
+    padding: 20px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     background-color: cadetblue;
+    margin-bottom: 10px;
 }
 
 nav a {
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
-    text-align: center;
     text-decoration: none;
     color: white;
+    margin-bottom: 10px;
 }
