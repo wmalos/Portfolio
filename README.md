@@ -7,5 +7,6 @@ Steps:
     Start working on the design in the style sheet and make it accessible on smaller screen sizes.
     Make sure that the links in the header are working.
     Added effects on hover to project images.
-
+    
+Link: https://wmalos.github.io/Portfolio/
 
